@@ -1,0 +1,1 @@
+The patch is used to synthesize training images.
