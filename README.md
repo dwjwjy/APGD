@@ -33,13 +33,15 @@ python demo/predict.py \
     --box_threshold 0.4 \
     --text_threshold 0.25
 
-For attack code, please refer to: https://github.com/VDIGPKU/T-SEA
+Data:
 
-If you want to generate training and test sets, run evaluation.py from T-SEA and save the output image.
+https://drive.google.com/drive/folders/1TyngImn4SSK9Be_YBwooSMN2ctqkZKkw
+
+If you want to generate your own training and test sets, Please download the code for T-SEA (https://github.com/VDIGPKU/T-SEA). run evaluation.py and save the output image.
 
 We provide the adversarial patches used for training and testing:
 
-Training set: see train_image/patch
+Training set: see train_image/patch\
 Test set: see patch/...
 
 The labels of the training set are stored in train_image/label/adversarial_patchs.csv, bbox_x,bbox_y,bbox_width, and bbox_height denote the center point coordinates of the patch, as well as the width and height, respectively. If you use your own training images, replace with the actual positions of the adversarial patches.
