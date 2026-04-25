@@ -37,7 +37,7 @@ Data:
 
 https://drive.google.com/drive/folders/1TyngImn4SSK9Be_YBwooSMN2ctqkZKkw
 
-If you want to generate your own training and test sets, Please download the code for T-SEA (https://github.com/VDIGPKU/T-SEA). run evaluation.py and save the output image. T-SEA is a highly effective and inspiring adversarial patch attack method. We sincerely thank the authors for open-sourcing their code.
+If you want to generate your own training and test sets, please download the code for T-SEA (https://github.com/VDIGPKU/T-SEA). Run evaluation.py and save the output image. T-SEA is a highly effective and inspiring adversarial patch attack method. We sincerely thank the authors for open-sourcing their code.
 
 We provide the adversarial patches used on the training and test sets:
 
