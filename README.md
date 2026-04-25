@@ -24,3 +24,12 @@ python train.py \
     --learning_rate 0.0005 \
     --batch_size 8
 
+python demo/predict.py \
+    --config_file groundingdino/config/GroundingDINO_SwinT_OGC.py \
+    --checkpoint_path weights/groundingdino_swint_ogc.pth \
+    --input_folder ./path/to/test_images \
+    --target_phrase "adversarial patchs" \
+    --embedding_path pt/final_learned_token_embedding.pt \
+    --output_dir ./results \
+    --box_threshold 0.4 \
+    --text_threshold 0.25
