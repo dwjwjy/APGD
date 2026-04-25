@@ -19,8 +19,7 @@ python demo/train3.py \
     --checkpoint_path weights/groundingdino_swint_ogc.pth \
     --image_path /path/to/images \
     --label_path /path/to/labels.csv \
-    --text_prompt "adversarial patch" \
-    --train \
+    --text_prompt "adversarial patchs" \
     --num_epochs 200 \
     --learning_rate 0.0005 \
     --batch_size 8
