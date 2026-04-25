@@ -10,7 +10,7 @@ pip install -r Requirements.txt \
 cd GroundingDINO \
 pip install -e .
 
-mkdir weights
+mkdir weights\
 wget https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth
 
 
