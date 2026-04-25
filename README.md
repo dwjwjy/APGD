@@ -6,7 +6,7 @@ pip install torch==2.1.2 torchvision==0.16.2 --index-url https://download.pytorc
 
 
 cd APGD\
-pip install -r Requirements.txt
+pip install -r Requirements.txt\
 pip install -e ./groundingdino
 
 mkdir weights\
