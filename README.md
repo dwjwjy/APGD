@@ -46,7 +46,13 @@ Test set: see patch/...
 
 The labels of the training set are stored in train_image/label/adversarial_patchs.csv, bbox_x,bbox_y,bbox_width, and bbox_height denote the center point coordinates of the patch, as well as the width and height, respectively. If you use your own training images, replace with the actual positions of the adversarial patches.
 
+Adaptive attack patch：
 
+λ=0（no adaptive attack）：\
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ad4733b5-acd1-4e8c-b0fa-c2bb84163a0e" />
+
+
+λ=1\
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/450f0c15-1983-45e0-8033-c972d896dba5" />
 
 
