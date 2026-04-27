@@ -20,7 +20,7 @@ python train.py \
     --num_epochs 200 \
     --learning_rate 0.0005 \
     --batch_size 8
-
+Test:\
 python demo/predict.py \
     --config_file groundingdino/config/GroundingDINO_SwinT_OGC.py \
     --checkpoint_path weights/groundingdino_swint_ogc.pth \
