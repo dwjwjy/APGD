@@ -3,8 +3,6 @@ conda create -n APGD python=3.10 -y \
 conda activate APGD \
 pip install torch==2.1.2 torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cu121 
 
-
-
 cd APGD\
 pip install -r Requirements.txt\
 pip install -e ./groundingdino
@@ -54,14 +52,11 @@ Adaptive attack patch：
 λ=0.25\:
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/08f7b37c-3d66-4fdd-b6cb-8c28a3d43dd3" />
 
-
 λ=0.5\:
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bb78170c-3aaf-4815-8804-ba43b7dee147" />
 
-
 λ=0.75\:
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9bd38638-c2d6-4819-b3b5-c127784aa889" />
-
 
 λ=1\:
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ee9f64ba-1f1d-46a6-8159-749e09653656" />
