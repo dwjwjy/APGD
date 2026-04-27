@@ -51,9 +51,23 @@ Adaptive attack patch：
 λ=0（no adaptive attack）：\
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ad4733b5-acd1-4e8c-b0fa-c2bb84163a0e" />
 
+λ=0.25\:
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/08f7b37c-3d66-4fdd-b6cb-8c28a3d43dd3" />
 
-λ=1\
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/450f0c15-1983-45e0-8033-c972d896dba5" />
+
+λ=0.5\:
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/bb78170c-3aaf-4815-8804-ba43b7dee147" />
+
+
+λ=0.75\:
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9bd38638-c2d6-4819-b3b5-c127784aa889" />
+
+
+λ=1\:
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ee9f64ba-1f1d-46a6-8159-749e09653656" />
+
+λ=2\:
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/adf35afd-abb3-4027-a90e-d4a0122585ba" />
 
 
 
